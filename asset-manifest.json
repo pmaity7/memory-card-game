@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/memory-card-game/static/css/main.073c9b0a.css",
+    "main.js": "/memory-card-game/static/js/main.5bc0f4ec.js",
+    "static/js/787.9f01a2e1.chunk.js": "/memory-card-game/static/js/787.9f01a2e1.chunk.js",
+    "static/media/img91.jpg": "/memory-card-game/static/media/img91.25c2230a36c4e57f1350.jpg",
+    "static/media/img13.jpg": "/memory-card-game/static/media/img13.e016eb17945bde3aac85.jpg",
+    "static/media/img1.jpg": "/memory-card-game/static/media/img1.30ea003fe58d4f0e0e58.jpg",
+    "static/media/img2.jpg": "/memory-card-game/static/media/img2.469922c99871473bfc6f.jpg",
+    "static/media/img4.jpg": "/memory-card-game/static/media/img4.4a386f1afef63949bb18.jpg",
+    "static/media/img3.jpg": "/memory-card-game/static/media/img3.c7029397aa4020637aa0.jpg",
+    "static/media/img12.jpg": "/memory-card-game/static/media/img12.b1287e4274fe9257459c.jpg",
+    "static/media/img10.jpg": "/memory-card-game/static/media/img10.67eb1fbc081209754d42.jpg",
+    "static/media/img11.jpg": "/memory-card-game/static/media/img11.c72185cab472565b887b.jpg",
+    "static/media/img5.jpg": "/memory-card-game/static/media/img5.e3583b214e4edafeb24f.jpg",
+    "static/media/img7.jpg": "/memory-card-game/static/media/img7.f9b1e93bd451bfbe3f80.jpg",
+    "static/media/img9.jpg": "/memory-card-game/static/media/img9.3dc7a95595373e75203a.jpg",
+    "static/media/img6.jpg": "/memory-card-game/static/media/img6.521df61e8e1d1622f157.jpg",
+    "index.html": "/memory-card-game/index.html",
+    "main.073c9b0a.css.map": "/memory-card-game/static/css/main.073c9b0a.css.map",
+    "main.5bc0f4ec.js.map": "/memory-card-game/static/js/main.5bc0f4ec.js.map",
+    "787.9f01a2e1.chunk.js.map": "/memory-card-game/static/js/787.9f01a2e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5bc0f4ec.js"
+  ]
+}
